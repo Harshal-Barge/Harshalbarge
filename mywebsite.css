@@ -408,9 +408,7 @@ header a,.abt-container a{
     padding-left: 100px;
     padding-bottom: 8rem;
     flex-direction: column;
-    /* opacity: 0;
-    transform: translateY(10rem);
-    transition: all 0.7s ease 0.1s; */
+    transition: all 0.7s ease 0.1s; 
 }
 .edu-animat{
     opacity: 0;
