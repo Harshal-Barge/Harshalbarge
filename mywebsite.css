@@ -111,8 +111,8 @@ header{
     transition: all 0.5s ease 1s;
 }
 .logo:hover{
-/*     transform:rotate(180deg); */
-    text-shadow: -8px -8px 5px rgb(104, 104, 104);
+    transform:scale(1.1);
+    text-shadow: 8px 8px 5px rgb(104, 104, 104);
 }
 .navbar{
     background-color:var(--nav_top);
