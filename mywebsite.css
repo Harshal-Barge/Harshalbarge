@@ -534,7 +534,7 @@ header a,.abt-container a{
     padding-bottom: 8rem;
     background-image: url('images/background-elegant-white-texture_23-2148438405.jpg');
     background-size: 150%;
-    transition: all 0.5s ease 0.1s;
+    transition: all 0.8s ease 0.2s;
 }
 .skill-container:hover{
     background-size: 120%;
